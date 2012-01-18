@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>desc</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>describe(@"&lt;#describe#&gt;", ^{
+    
+    it(@"&lt;#it#&gt;", ^{
+        expect(NO).toBeTruthy();
+    });
+    
+});
+</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>E6E50DE2-E8F0-496A-B7B9-49A99E2F44B9</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Cedar Spec</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Describe with It</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

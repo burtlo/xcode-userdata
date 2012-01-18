@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchScopes
+   version = "1.1">
+   <Scope
+      name = "PGCommon"
+      predicate = "location_filesystem == &quot;/Users/burtlo/substantial/tap-buggies/libs/pgcommon&quot;"
+      uuid = "0E3EC31B-E20A-425E-A076-6A248310BDAD">
+   </Scope>
+   <Scope
+      name = "Classes and Specs"
+      predicate = "location_filesystem == &quot;/Users/burtlo/substantial/tap-buggies/Specs&quot; AND location_filesystem == &quot;/Users/burtlo/substantial/tap-buggies/Classes&quot;"
+      uuid = "44E1AEE9-60A8-47E5-BAB9-26B88BFF189C">
+   </Scope>
+   <Scope
+      name = "Cocoshop"
+      predicate = "location_filesystem == &quot;/Users/burtlo/substantial/cocoshop/cocoshop&quot;"
+      uuid = "1808F9F3-E9DA-4E5E-950A-AD62677A8D7E">
+   </Scope>
+</SearchScopes>

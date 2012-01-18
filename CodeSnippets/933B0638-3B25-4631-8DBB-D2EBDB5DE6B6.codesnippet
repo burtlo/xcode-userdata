@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>specstart</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>//
+//  &lt;#className#&gt;Spec.m
+//  wavii-ios
+//
+//  Created by Franklin Webber.
+//  Copyright 2011 Wavii, Inc. All rights reserved.
+//
+
+SPEC_BEGIN(&lt;#className#&gt;Spec)
+
+describe(@"&lt;#className#&gt;", ^{
+    
+});
+
+SPEC_END</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>933B0638-3B25-4631-8DBB-D2EBDB5DE6B6</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Start of a spec file</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>SpecStart</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>pragmaBoiler</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>ClassImplementation</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>#pragma mark - Initialization
+
+- (id)&lt;#init#&gt;
+
+#pragma mark - Deallocation
+
+- (void)dealloc {
+    
+    [super dealloc];
+}
+</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>C4368340-AD61-479F-98A0-650E5B4A227D</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>Adds Pragmas and Dealloc</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>Class Implementation BoilerPlate</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>2</integer>
+</dict>
+</plist>
